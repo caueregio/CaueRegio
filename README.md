@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Cauê!
 
-<!--
-**caueregio/CaueRegio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia da Computação. 
+💻 Desenvolvedor apaixonado por tecnologia e programação. 
+🐍 Atualmente focado em Python, criando projetos para automatização.  
+🚀 Sempre aprendendo e compartilhando conhecimento. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas
+
+- 🐍 Python  
+- aprendendo n8n automatização
+
+---
+
+## 📊 GitHub Stats
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=caueregio&show_icons=true&theme=tokyonight)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](SEULINKEDIN)  
+[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL)
+
+---
+
+⭐ Se gostou dos meus projetos, não esqueça de deixar um **star** nos repositórios!
