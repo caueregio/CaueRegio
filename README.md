@@ -6,7 +6,6 @@ Atualmente focado em **Python**, criando projetos para automatização e tambem 
 ---
 
 ### 🤖 Linguagens e Tecnologias
-<img />
 <img 
     align="left" 
     alt="Python" 
@@ -16,13 +15,12 @@ Atualmente focado em **Python**, criando projetos para automatização e tambem 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <br/>
-<br/>
-
 
 ---
-## 📊 Estatística
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=caueregio&show_icons=true&theme=tokyonight)
+
+## 📊 Estatística
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=caueregio&show_icons=true&theme=tokyonight&locale=pt-br)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=caueregio&layout=compact&theme=tokyonight)
 
