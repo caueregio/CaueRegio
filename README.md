@@ -6,21 +6,20 @@ Atualmente focado em **Python**, criando projetos para automatização e tambem 
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
 <img />
 <img 
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
-    style="padding-right: 100px;" 
+    width="40px" 
+    style="padding-right: 0;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <br/>
 <br/>
 
 
+---
 ## 📊 Estatística
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=caueregio&show_icons=true&theme=tokyonight)
