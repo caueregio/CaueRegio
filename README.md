@@ -1,32 +1,36 @@
-# 👋 Olá, eu sou o Cauê!
+ 👋 Olá, eu sou o Cauê!
 
-🎓 Estudante de Engenharia da Computação. 
-💻 Desenvolvedor apaixonado por tecnologia e programação. 
-🐍 Atualmente focado em Python, criando projetos para automatização.  
-🚀 Sempre aprendendo e compartilhando conhecimento. 
-
+Estudante de **Engenharia de Computação**.  
+Desenvolvedor apaixonado por tecnologia e programação.  
+Atualmente focado em **Python**, criando projetos para automatização e tambem estudando n8n. 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+### 🤖 Linguagens e Tecnologias
 
-- 🐍 Python  
-- aprendendo n8n automatização
+<img />
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 100px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
----
+<br/>
+<br/>
 
-## 📊 GitHub Stats
+
+## 📊 Estatística
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=caueregio&show_icons=true&theme=tokyonight)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=caueregio&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](SEULINKEDIN)  
+## 📫 Onde me encontrar 
 [![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caueregio100@gmail.com)
 
----
 
-⭐ Se gostou dos meus projetos, não esqueça de deixar um **star** nos repositórios!
+
