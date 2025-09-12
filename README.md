@@ -1,4 +1,4 @@
- 👋 Olá, eu sou o Cauê!
+Cauê Règio
 
 Estudante de **Engenharia de Computação**.  
 
