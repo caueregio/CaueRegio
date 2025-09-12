@@ -3,11 +3,8 @@
 Estudante de **Engenharia de Computação**.  
 ---
 
-### 🤖 Linguagens e Tecnologias
-<img 
 
-/>
-<br/>
+
 
 ---
 
