@@ -1,7 +1,6 @@
  👋 Olá, eu sou o Cauê!
 
 Estudante de **Engenharia de Computação**.  
----
 
 
 
